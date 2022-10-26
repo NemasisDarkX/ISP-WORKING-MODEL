@@ -14,7 +14,7 @@ def introduction():
           
           This projects scripts are uploaded to github: https://github.com/NemasisDarkX
                                                                                   
-                                                                                     ~regards Abhay R\n\n\n\n\n'''
+                                                                                     ~regards GLITCH\n\n\n\n\n'''
     for x in msg:
         print(x, end='')
         time.sleep(0.002)
